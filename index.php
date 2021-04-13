@@ -31,11 +31,6 @@
 </header>
 
 <div class="content">
-  <!--<div class="center-content">-->
-  <!--  <a href="https://www.helloasso.com/associations/palo-altours/evenements/hitbox-makers-2021" target="_blank">-->
-  <!--    <button class="primary-btn">INSCRIPTION</button>-->
-  <!--  </a>-->
-  <!--</div>-->
   <div class="section">
     <div>
       <h2>Qui sommes nous ?</h2>
@@ -45,7 +40,7 @@
       </p>
     </div>
     <div>
-      <img src="img/palo.png" alt="Logo Palo Altours" height="200px">
+      <img src="img/palo.png" alt="Logo Palo Altours">
     </div>
   </div>
   <div class="section">
@@ -71,11 +66,12 @@
   </div>
 
   <div class="section-img">
-    <img src="2021/1.png" class="" alt="">
-    <img src="2021/2.png" class="" alt="">
-    <img src="2021/3.png" class="" alt="">
-    <img src="2021/4.png" class="" alt="">
-    <img src="2021/5.png" class="" alt="">
+    <img src="2021/1.png" class="" alt="Prix 'Le jeu qui fait le mieux danse les tympans' pour I have the high Graind">
+    <img src="2021/2.png" class="" alt="Prix 'Ça monte encore, et encore... et encore...' pour Grow Up">
+    <img src="2021/3.png" class=""
+        alt="Prix 'C'est pas un bug, c'est une fonctionnalité' pour Road to Canopy et Grow Up">
+    <img src="2021/4.png" class="" alt="Prix 'Meilleur dessin sous paint' pour Poule Pull et Grow Up">
+    <img src="2021/5.png" class="" alt="Prix 'Gameplay le plus original' pour Grow Up">
   </div>
 
   <div class="center-content">
@@ -83,18 +79,6 @@
       <button class="primary-btn">Les Jeux de 2021</button>
     </a>
   </div>
-
-
-  <!--<p class="center-content">-->
-  <!--  <a href="/faq">-->
-  <!--    <button class="secondary-btn">F A Q</button>-->
-  <!--  </a>-->
-  <!--</p>-->
-  <!--<div class="center-content">-->
-  <!--  <a href="https://www.helloasso.com/associations/palo-altours/evenements/hitbox-makers-2021" target="_blank">-->
-  <!--    <button class="primary-btn">INSCRIPTION</button>-->
-  <!--  </a>-->
-  <!--</div>-->
   <div class="section">
     <div>
       <h2>Des créations ?</h2>
@@ -104,7 +88,7 @@
       </p>
     </div>
     <div>
-      <img src="img/screen_itchio.PNG" alt="Logo Palo Altours" height="200px">
+      <img src="img/screen_itchio.PNG" alt="Screenshot itchio">
     </div>
   </div>
   <div class="section">
