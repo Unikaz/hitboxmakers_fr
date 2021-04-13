@@ -23,16 +23,17 @@
   <nav id="socials">
     <a target="_blank" href="https://discord.gg/ptmJWfd"><img src="img/discord.png" alt="Discord"></a>
     <a target="_blank" href="https://www.twitch.tv/hitboxmakers"><img src="img/twitch.png" alt="Twitch"></a>
-    <a target="_blank" href="https://www.youtube.com/channel/UCt32L1Ao_KXadv-tu3z-IDQ"><img src="img/yt.svg" alt="Youtube"></a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCt32L1Ao_KXadv-tu3z-IDQ"><img src="img/yt.svg"
+          alt="Youtube"></a>
     <a target="_blank" href="https://twitter.com/hitboxmakers"><img src="img/twitter.svg" alt="Twitter"></a>
     <a target="_blank" href="https://hitboxmakers.itch.io/"><img src="img/itchio.svg" alt="Itch.io"></a>
   </nav>
 </header>
 
 <div class="content">
-  <div class="helloasso-div">
+  <div class="center-content">
     <a href="https://www.helloasso.com/associations/palo-altours/evenements/hitbox-makers-2021" target="_blank">
-      <button class="helloasso-btn">INSCRIPTION</button>
+      <button class="primary-btn">INSCRIPTION</button>
     </a>
   </div>
   <div class="section">
@@ -58,9 +59,14 @@
       <p>Un atelier d'initiation sera organisé le Samedi Matin !</p>
     </div>
   </div>
-  <div class="helloasso-div">
+  <p class="center-content">
+    <a href="/faq">
+      <button class="secondary-btn">F A Q</button>
+    </a>
+  </p>
+  <div class="center-content">
     <a href="https://www.helloasso.com/associations/palo-altours/evenements/hitbox-makers-2021" target="_blank">
-      <button class="helloasso-btn">INSCRIPTION</button>
+      <button class="primary-btn">INSCRIPTION</button>
     </a>
   </div>
   <div class="section">
