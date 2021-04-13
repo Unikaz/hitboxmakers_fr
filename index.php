@@ -31,11 +31,11 @@
 </header>
 
 <div class="content">
-  <div class="center-content">
-    <a href="https://www.helloasso.com/associations/palo-altours/evenements/hitbox-makers-2021" target="_blank">
-      <button class="primary-btn">INSCRIPTION</button>
-    </a>
-  </div>
+  <!--<div class="center-content">-->
+  <!--  <a href="https://www.helloasso.com/associations/palo-altours/evenements/hitbox-makers-2021" target="_blank">-->
+  <!--    <button class="primary-btn">INSCRIPTION</button>-->
+  <!--  </a>-->
+  <!--</div>-->
   <div class="section">
     <div>
       <h2>Qui sommes nous ?</h2>
@@ -51,29 +51,55 @@
   <div class="section">
     <div><img src="img/animationHitBox.gif" alt="Logo Jam"></div>
     <div>
-      <h2>Notre prochaine Game Jam !</h2>
-      <p>Du <strong>Vendredi 9 Avril</strong> à partir de 19h au
-        <strong>Dimanche 11 à 19h</strong> ! Retrouvez-nous sur notre Discord pour un week-end plein de bonne humeur !
+      <h2>La Game Jam 2021 !</h2>
+      <p>
+        Une chouette édition encore cette année, avec <strong>21 jeux</strong> ! Un record !
       </p>
-      <p>Que vous soyez débutant ou expérimenté, seul ou en équipe, développeur, musicien, graphiste, auteur, ou simple joueur venez participer !</p>
-      <p>Un atelier d'initiation sera organisé le Samedi Matin !</p>
+      <p>
+        Cette année encore nous avons organisé la Jam en ligne sur Discord et réuni une
+        <strong>soixantaine de personnes</strong> autour de la création de jeux !
+      </p>
+      <p>
+        N'hésitez pas aller tester tous ces bons jeux !
+      </p>
     </div>
   </div>
-  <p class="center-content">
-    <a href="/faq">
-      <button class="secondary-btn">F A Q</button>
-    </a>
-  </p>
   <div class="center-content">
-    <a href="https://www.helloasso.com/associations/palo-altours/evenements/hitbox-makers-2021" target="_blank">
-      <button class="primary-btn">INSCRIPTION</button>
+    <a href="https://itch.io/jam/hitbox-makers-2021/entries" target="_blank">
+      <button class="primary-btn">Les Jeux de 2021</button>
     </a>
   </div>
+
+  <div class="section-img">
+    <img src="2021/1.png" class="" alt="">
+    <img src="2021/2.png" class="" alt="">
+    <img src="2021/3.png" class="" alt="">
+    <img src="2021/4.png" class="" alt="">
+    <img src="2021/5.png" class="" alt="">
+  </div>
+
+  <div class="center-content">
+    <a href="https://itch.io/jam/hitbox-makers-2021/entries" target="_blank">
+      <button class="primary-btn">Les Jeux de 2021</button>
+    </a>
+  </div>
+
+
+  <!--<p class="center-content">-->
+  <!--  <a href="/faq">-->
+  <!--    <button class="secondary-btn">F A Q</button>-->
+  <!--  </a>-->
+  <!--</p>-->
+  <!--<div class="center-content">-->
+  <!--  <a href="https://www.helloasso.com/associations/palo-altours/evenements/hitbox-makers-2021" target="_blank">-->
+  <!--    <button class="primary-btn">INSCRIPTION</button>-->
+  <!--  </a>-->
+  <!--</div>-->
   <div class="section">
     <div>
       <h2>Des créations ?</h2>
       <p>
-        De nombreux jeux ont été réalisé, et vous pouvez en retrouver une partie sur notre <a target="_blank"
+        De nombreux jeux ont été réalisés, et vous pouvez en retrouver une partie sur notre <a target="_blank"
             href="https://hitboxmakers.itch.io/">Itch.io</a> !
       </p>
     </div>

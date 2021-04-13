@@ -70,7 +70,7 @@ h2 {
     margin: 10px;
 }
 
-#socials > a:hover{
+#socials > a:hover {
     transform: scale(1.1);
 }
 
@@ -98,7 +98,7 @@ h2 {
     transform: scale(1.1);
 }
 
-.center-content{
+.center-content {
     text-align: center;
 }
 
@@ -141,6 +141,20 @@ h2 {
     height: auto;
 }
 
+.section-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+.section-img > img {
+    max-height: 200px;
+    max-width: 100%;
+    margin: 5px;
+    box-shadow: 0 0 5px;
+}
 
 footer {
     background-color: hsl(4, 90%, 58%);
@@ -199,12 +213,14 @@ footer a:hover {
 
 }
 
-.decal{
+.decal {
     padding-left: 20px;
 }
-.decal strong{
+
+.decal strong {
     margin-left: -10px;
 }
-.decal h3{
+
+.decal h3 {
     margin-left: -20px;
 }
