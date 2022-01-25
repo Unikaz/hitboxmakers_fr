@@ -150,7 +150,7 @@ h2 {
     flex-wrap: wrap;
 }
 
-.section-img > img {
+.section-img > a > img {
     max-height: 200px;
     max-width: 100%;
     margin: 5px;

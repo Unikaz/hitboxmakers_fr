@@ -100,12 +100,23 @@
   </div>
 
   <div class="section-img">
-    <img src="2021/1.png" class="" alt="Prix 'Le jeu qui fait le mieux danse les tympans' pour I have the high Graind">
-    <img src="2021/2.png" class="" alt="Prix 'Ça monte encore, et encore... et encore...' pour Grow Up">
-    <img src="2021/3.png" class=""
-        alt="Prix 'C'est pas un bug, c'est une fonctionnalité' pour Road to Canopy et Grow Up">
-    <img src="2021/4.png" class="" alt="Prix 'Meilleur dessin sous paint' pour Poule Pull et Grow Up">
-    <img src="2021/5.png" class="" alt="Prix 'Gameplay le plus original' pour Grow Up">
+    <a href="https://itch.io/jam/hitbox-makers-2021/rate/992733" target="_blank">
+      <img src="2021/1.png" class=""
+          alt="Prix 'Le jeu qui fait le mieux danse les tympans' pour I have the high Graind">
+    </a>
+    <a href="https://itch.io/jam/hitbox-makers-2021/rate/992868" target="_blank">
+      <img src="2021/2.png" class="" alt="Prix 'Ça monte encore, et encore... et encore...' pour Grow Up">
+    </a>
+    <a href="https://itch.io/jam/hitbox-makers-2021/rate/992469" target="_blank">
+      <img src="2021/3.png" class=""
+          alt="Prix 'C'est pas un bug, c'est une fonctionnalité' pour Road to Canopy et Grow Up">
+    </a>
+    <a href="https://itch.io/jam/hitbox-makers-2021/rate/992727" target="_blank">
+      <img src="2021/4.png" class="" alt="Prix 'Meilleur dessin sous paint' pour Poule Pull et Grow Up">
+    </a>
+    <a href="https://itch.io/jam/hitbox-makers-2021/rate/992868" target="_blank">
+      <img src="2021/5.png" class="" alt="Prix 'Gameplay le plus original' pour Grow Up">
+    </a>
   </div>
 
   <div class="center-content">
