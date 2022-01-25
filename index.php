@@ -31,11 +31,16 @@
 </header>
 
 <div class="content">
+  <div class="helloasso-div">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScmxCNXjmcfoJzNXbtVY_9es-ZWbfBOW58aMyUNHt_Sj6vsEA/viewform"
+        target="_blank">
+      <button class="primary-btn">🎮 SAVE THE DATE 🎲</button>
+    </a>
+  </div>
   <div class="section">
     <div>
       <h2>Qui sommes nous ?</h2>
-      <p>Hitbox Makers est une action de <a
-            href="https://paloaltours.org"
+      <p>Hitbox Makers est une action de <a href="https://paloaltours.org"
             target="_blank">Palo Altours</a> qui organise des événements autour du développement de jeux vidéo et de jeux de plateau, toujours dans une ambiance festive !
       </p>
     </div>
@@ -44,7 +49,35 @@
     </div>
   </div>
   <div class="section">
-    <div><img src="img/animationHitBox.gif" alt="Logo Jam"></div>
+    <div><img src="img/logo.png" alt="Logo Jam"></div>
+    <div>
+      <h2>Nouvelle Game Jam 2022 avec la Global Game Jam !</h2>
+      <p>Du <strong>Vendredi 28 Janvier</strong> à partir de 19h au
+        <strong>Dimanche 30 à 19h</strong> ! Retrouvez-nous sur Discord pour une nouvelle Game Jam !
+      </p>
+      <p>Que vous soyez débutant ou expérimenté, seul ou en équipe, développeur, musicien, graphiste, auteur, ou simple joueur venez participer !</p>
+      <p>Un atelier d'initiation sera organisé le Samedi Matin !</p>
+      <p>Et d'autres annonces à venir !</p>
+    </div>
+  </div>
+  <div class="helloasso-div">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScmxCNXjmcfoJzNXbtVY_9es-ZWbfBOW58aMyUNHt_Sj6vsEA/viewform"
+        target="_blank">
+      <button class="primary-btn">SAVE THE DATE</button>
+    </a>
+  </div>
+  <br>
+  <div class="helloasso-div">
+    <a href="/faq" target="_blank">
+      <button class="primary-btn">F.A.Q</button>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href="/resources" target="_blank">
+      <button class="primary-btn">Ressources</button>
+    </a>
+  </div>
+  <div class="section">
     <div>
       <h2>La Game Jam 2021 !</h2>
       <p>
@@ -58,6 +91,7 @@
         N'hésitez pas aller tester tous ces bons jeux !
       </p>
     </div>
+    <div><img src="img/animationHitBox.gif" alt="Logo Jam"></div>
   </div>
   <div class="center-content">
     <a href="https://itch.io/jam/hitbox-makers-2021/entries" target="_blank">

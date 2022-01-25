@@ -84,7 +84,8 @@ h2 {
 }
 
 .primary-btn {
-    width: 300px;
+    text-align: center;
+    min-width: 300px;
     height: 50px;
     background-color: hsl(4, 90%, 58%);
     color: white;
