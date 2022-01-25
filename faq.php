@@ -91,7 +91,8 @@
   </p>
   <p>
     Et
-    <strong>donnez-nous votre identifiant</strong> : c’est nous qui vous ajouterons à notre site et vous serez autonome pour publier votre jeu.
+    <strong>donnez-nous votre identifiant</strong> via <a href="https://forms.gle/vTY4q8nN9EtWE7Wu6">ce formulaire</a> : c’est nous qui vous ajouterons à notre site et vous serez autonome pour publier votre jeu.
+
   </p>
 
   <h2>Comment faire connaissance et trouver une équipe ?</h2>
