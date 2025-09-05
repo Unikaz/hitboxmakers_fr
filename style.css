@@ -21,8 +21,15 @@ a:visited {
 
 header {
     position: relative;
-    background-color: #d7d6d5;
+    background-color: #fdfdfd;
     margin-bottom: 15px;
+}
+
+header > hr {
+    height: 16px;
+    background-color: #df4e3a;
+    border: none;
+    margin-top: -20px;
 }
 
 header > img {
@@ -58,7 +65,7 @@ h2 {
 }
 
 #socials {
-    background-color: #c5c5c5;
+    background-color: #fdfdfd;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -104,14 +111,14 @@ h2 {
 }
 
 .secondary-btn {
-    width: 150px;
-    height: 40px;
+    min-width: 150px;
     background-color: hsl(17, 100%, 72%);
     color: white;
     font-size: 1.5em;
     border-radius: 5px;
     border: none;
     letter-spacing: 0.05em;
+    padding: 5px;
 }
 
 .secondary-btn:hover {
